@@ -5,4 +5,5 @@ Conta com 150 Pokemons carregados dinâmicamente e tem uma interface responsiva 
 
 Link do Deploy : https://pokedex-mu-seven.vercel.app/!
 
-[Uploading Screenshot_1.png…]()
+![image](https://user-images.githubusercontent.com/101595139/164006961-ab8073ff-304f-4f2f-9618-8098782b54ab.png)
+
