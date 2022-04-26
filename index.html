@@ -5,14 +5,32 @@
   <title>PokeDex</title>
   <link rel="stylesheet" href="./style.css" />
   <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet" />
-</head>
 <body>
+
+  <div id="modal-container">
+      <div class="modal">
+        <div class="img-container">
+          <img id="modalImg" src="">
+        </div>
+
+        <div id="description">
+          <h2 id="modal-name"></h2>
+          <p id="modal-type"></p>
+          <p id="abilities"></p>
+        </div>
+        
+        <button id="btn"> Close Info</button>
+      </div>
+  </div>
+
 
   <div class="container">
     <h1>Pokedex</h1>
-    <ul data-js="pokedex" class="pokedex"></ul>
+    <ul data-js="pokedex" class="pokedex"></ul> 
   </div>
   
+  
+
   <script src="./app.js"></script>
 </body>
 </html>
